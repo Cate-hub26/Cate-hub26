@@ -4,6 +4,18 @@
 
 - Building Instagram Clone(https://github.com/Cate-hub26/Instagram-Clone/blob/main/README.md)
 - Hello World
+
+<h2> Skills :</h2>
+
+<h3>💻 Front-end Developer skills</h3>
+<h4>📄 HTML- creating structured web pages </h4>
+<h4>🎨 CSS- styling web pages grid </h4>
+<h3>⚙ Back-end Developer skills</h3>
+<h4>💻 Python- basic scripting, loops and functions </h4>
+<h4>🔥 Flask Web Framework- setting up a lightweight web server  </h4>
+<h4>📝 jinja2 Templating - rendering dynamic HTML pages</h4>
+<h4>💾 MySQL - creating tables, writing basic SELECT, INSERT, UPDATE, DELETE statements </h4>
+<h4>🛠 Flask-SQLAlchemy- connecting to a database using SQLAlchemy</h4>
 <h2>📄 Certification: </h2>
 
 - Backend Web Development with ALX Africa
