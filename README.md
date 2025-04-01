@@ -5,7 +5,7 @@
 - Building Instagram Clone(https://github.com/Cate-hub26/Instagram-Clone/blob/main/README.md)
 - Hello World
 
-<h2> Skills :</h2>
+<h2>🌱 Skills :</h2>
 
 <h3>💻 Front-end Developer skills</h3>
 <h4>📄 HTML- creating structured web pages </h4>
