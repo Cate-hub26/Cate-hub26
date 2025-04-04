@@ -16,6 +16,13 @@
 <h4>📝 jinja2 Templating - rendering dynamic HTML pages</h4>
 <h4>💾 MySQL - creating tables, writing basic SELECT, INSERT, UPDATE, DELETE statements </h4>
 <h4>🛠 Flask-SQLAlchemy- connecting to a database using SQLAlchemy</h4>
+
+<h3>🌟🧠 Soft skills </h3>
+<h4>💬 Communication </h4>
+<h4>🧠 Problem-solving </h4>
+<h4>⌚ Time-management </h4>
+<h4>👩‍🏫 Mentoring </h4>
+
 <h2>📄 Certification: </h2>
 
 - Backend Web Development with ALX Africa
