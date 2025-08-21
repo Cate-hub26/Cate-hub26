@@ -1,9 +1,4 @@
-<h1>Hi, I'm Cate! <br/><a href="https://github.com/joshmadakor1">Self-taught Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Upcoming software Developer</a>, <a href="https://www.youtube.com/c/joshmadakor">Mathematics Educator</a></h1>
-
-<h2>👨‍💻 Software Development Projects:</h2>
-
-- Building Instagram Clone(https://github.com/Cate-hub26/Instagram-Clone/blob/main/README.md)
-- Hello World
+<h1>Hi, I'm Cate! <br/><a href="https://github.com/joshmadakor1">Self-taught Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Backend Developer</a>, <a href="https://www.youtube.com/c/joshmadakor">Former Mathematics Educator</a></h1>
 
 <h2>🌱 Skills :</h2>
 
