@@ -2,16 +2,36 @@
 
 <h2>🌱 Skills :</h2>
 
-<h3>💻 Front-end Developer skills</h3>
-<h4>📄 HTML- creating structured web pages </h4>
-<h4>🎨 CSS- styling web pages grid </h4>
-<h3>⚙ Back-end Developer skills</h3>
-<h4>💻 Python- basic scripting, loops and functions </h4>
-<h4>🔥 Flask Web Framework- setting up a lightweight web server  </h4>
-<h4>📝 jinja2 Templating - rendering dynamic HTML pages</h4>
-<h4>💾 MySQL - creating tables, writing basic SELECT, INSERT, UPDATE, DELETE statements </h4>
-<h4>🛠 Flask-SQLAlchemy- connecting to a database using SQLAlchemy</h4>
+<h2>🧠 Developer Skillset</h2>
 
+<h3>💻 Front-end Development</h3>
+<ul>
+  <li>📄 <strong>HTML</strong> – Structuring semantic, accessible web pages</li>
+  <li>🎨 <strong>CSS</strong> – Styling with Flexbox, Grid, and responsive design principles</li>
+</ul>
+
+<h3>⚙ Back-end Development</h3>
+<ul>
+  <li>🐍 <strong>Python</strong> – Scripting, control flow, functions, and modular design</li>
+  <li>🔥 <strong>Django & Django REST Framework</strong> – Building secure, scalable APIs with custom user models, token authentication, permissions, and serializers</li>
+  <li>🧪 <strong>Unit Testing</strong> – Validating edge cases and ensuring API reliability</li>
+  <li>📝 <strong>Jinja2 Templating</strong> – Rendering dynamic HTML in Flask projects</li>
+  <li>💾 <strong>MySQL</strong> – Designing schemas, writing SELECT, INSERT, UPDATE, DELETE queries</li>
+  <li>🛠 <strong>Flask-SQLAlchemy</strong> – ORM-based database integration</li>
+  <li>📬 <strong>Postman</strong> – Testing endpoints, debugging request/response formats</li>
+</ul>
+
+<h3>📊 Data & Analytics</h3>
+<ul>
+  <li>📐 <strong>Mathematical Reasoning</strong> – Applying analytical thinking to backend logic and predictions</li>
+  <li>📈 <strong>Cycle Tracking Algorithms</strong> – Designing consistency checks and prediction endpoints</li>
+</ul>
+
+<h3>🧾 Documentation & Collaboration</h3>
+<ul>
+  <li>🖋️ <strong>Markdown & README Writing</strong> – Reviewer-friendly, copy-ready documentation</li>
+  <li>🌍 <strong>Open Source Standards</strong> – Preparing projects for public sharing and contribution</li>
+</ul>
 <h3>🌟🧠 Soft skills </h3>
 <h4>💬 Communication </h4>
 <h4>🧠 Problem-solving </h4>
