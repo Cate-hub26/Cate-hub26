@@ -7,6 +7,7 @@
 <h3>💻 Front-end Development</h3>
 <ul>
   <li>📄 <strong>HTML</strong> – Structuring semantic, accessible web pages</li>
+  <li>📄 <strong>JavaScript</strong> – Adding interactivity and dynamic behavior to web pages</li>
 </ul>
 
 <h3>⚙ Back-end Development</h3>
