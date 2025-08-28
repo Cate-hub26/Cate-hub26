@@ -1,4 +1,4 @@
-<h1>Hi, I'm Cate! <br/><a href="https://github.com/joshmadakor1">Self-taught Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Backend Developer</a>, <a href="https://www.youtube.com/c/joshmadakor">Former Mathematics Educator</a></h1>
+<h1>Hi, I'm Cate! <br/><a href="https://github.com/Cate-hub26">Self-taught Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Backend Developer</a>, <a href="https://www.youtube.com/c/joshmadakor">Former Mathematics Educator</a></h1>
 
 <h2>🌱 Skills :</h2>
 
@@ -7,7 +7,6 @@
 <h3>💻 Front-end Development</h3>
 <ul>
   <li>📄 <strong>HTML</strong> – Structuring semantic, accessible web pages</li>
-  <li>🎨 <strong>CSS</strong> – Styling with Flexbox, Grid, and responsive design principles</li>
 </ul>
 
 <h3>⚙ Back-end Development</h3>
