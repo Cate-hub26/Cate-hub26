@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nzisa! <br/><a href="https://github.com/Cate-hub26">Self-taught Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Backend Developer</a>, <a href="https://www.youtube.com/c/joshmadakor">Mathematics Educator</a></h1>
+<h1>Hi, I'm Nzisa! <br/><a href="https://github.com/Cate-hub26"></a>, <a href="https://www.linkedin.com/in/joshmadakor/">Backend Developer</a>, <a href="https://www.youtube.com/c/joshmadakor">Mathematics Educator</a></h1>
 
 <h2>🌱 Skills :</h2>
 
